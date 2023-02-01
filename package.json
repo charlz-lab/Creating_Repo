@@ -1,0 +1,21 @@
+{
+  "name": "creating_repo",
+  "version": "1.0.0",
+  "description": "creating a  repo",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/charlz-lab/Creating_Repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlz-lab/Creating_Repo/issues"
+  },
+  "homepage": "https://github.com/charlz-lab/Creating_Repo#readme"
+}
